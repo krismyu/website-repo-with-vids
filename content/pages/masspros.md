@@ -7,10 +7,12 @@ Summary:
 ## Overview ##
 
 1. [Personnel](#personnel)
-2. [Mentoring lunches](#lunches) ([procedure for reserving lunch](#lunch-procedure))
-3. [Winter bootcamp](#bootcamp)
-4. [Spring workshop](#workshop)
-
+2. [Mentoring lunches](#lunches)
+   ([procedure for reserving lunch](#lunch-procedure))
+3. [Fall orientation](#orientation)
+4. [Winter bootcamp](#bootcamp)
+5. [Spring workshop](#workshop)
+6. [Resources](#resources)
 
 -----------------------------------------
 
@@ -33,12 +35,12 @@ Prosody enthusiasts  |  Affiliation |
 [Lisa Green](http://people.umass.edu/lisag) | UMass Linguistics
 [Jeremy Hartman](http://www.umass.edu/linguist/people/faculty.php) | UMass Linguistics
 [Vincent Homer](https://sites.google.com/site/vincenthomer/home) | UMass Linguistics
-[Jill Hoover](http://www.umass.edu/sphhs/person/faculty/jill-hoover) | UMass Communication Disorders
+<!-- [Jill Hoover](http://www.umass.edu/sphhs/person/faculty/jill-hoover) | UMass Communication Disorders -->
 [John Kingston](http://people.umass.edu/jkingstn) | UMass Linguistics
 [Angelika Kratzer](http://people.umass.edu/kratzer) | UMass Linguistics
 [John McCarthy](http://people.umass.edu/jjmccart) | UMass Linguistics
 [Magda Oiry](http://blogs.umass.edu/moiry) | UMass Linguistics
-[Gwyneth Rost](http://www.umass.edu/sphhs/person/faculty/gwyneth-c-rost)| UMass Communication Disorders
+<!-- [Gwyneth Rost](http://www.umass.edu/sphhs/person/faculty/gwyneth-c-rost)| UMass Communication Disorders -->
 [Lisa Selkirk](http://people.umass.edu/selkirk) | UMass Linguistics
 [Adrian Staub](http://people.umass.edu/astaub) | UMass Psychology
 [Kristine Yu](http://people.umass.edu/kmyu) | UMass Linguistics
@@ -89,9 +91,18 @@ follows:
 
 -----------------------------------------
 
+##<a id="orientation"></a> Fall orientation ##
+
+We'll launch the prosody group with an informal get-together when
+school starts, on *Wednesday, September 4, 5:30pm - 6:30pm*, in South
+College 301 (Partee Seminar Room), UMass.  
+
+-----------------------------------------
+
 ##<a id="bootcamp"></a> Winter bootcamp ##
 
-A 3-day prosody bootcamp will be held at UMass in January, open to
+A 3-day prosody bootcamp will be held at UMass in January 2014, *tentatively
+Wednesday to Friday, January 15-17 OR Thursday to Saturday, January 16-18*, open to
 whoever's interested from the Five Colleges community, including
 students. The purpose of the bootcamp is to:
 
@@ -139,7 +150,8 @@ Syntax/semantics/pragmatics | Seth Cable, Brian Dillon, Jeremy Hartman, (Vincent
 
 ##<a id="workshop"></a> Spring workshop ##
 
-A 2-day prosody workshop at UMass open to the public will be held in May 2014 and will
+A 2-day prosody workshop at UMass open to the public will be held in
+May 2014, *tentatively Thursday and Friday, May 29-30 or Friday and Saturday, May 30-31*, and will
 (tentatively) consist of:
 
 1. Invited talks (~30 min each)
@@ -165,4 +177,14 @@ suggestions of topics and potential speakers to invite!) include:
 * What role do memory and frequency effects play in recognizing tonal concepts?
 
 
+-----------------------------------------
+
+##<a id="resources"></a> Resources ##
+
+###<a id="conferences"></a> Upcoming conferences ###
+
+Conference  |  Event coordinates | Submission deadline 
+-------------------- |------------- | ------------------  
+[TAL 2014](http://tal2014.org/) | 13-16 May 2014, Nijmegen, the Netherlands | [15 Feb 2014](http://tal2014.org/call-for-papers/)
+[Speech Prosody 2014] (http://sprosig.isle.illinois.edu/) | 21-24 May 2014, Dublin, Ireland | Late Nov, early December??
 
