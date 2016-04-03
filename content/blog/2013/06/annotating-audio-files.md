@@ -1,9 +1,8 @@
 Title: Annotating audio files
 Date: 2013-06-24 11:12
-Category: Tutorials
-Tags: ldc-kiy, fieldwork, praat
-Slug: annotating-audio-files
 Author: Kristine Yu
+Tags: ldc-kiy, fieldwork, praat, tutorial
+Slug: annotating-audio-files
 Summary: Tutorial for LDC paper: annotating audio files
 
 <div align = "center">

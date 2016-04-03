@@ -1,10 +1,9 @@
 Title: Organizing elicitation items
 Date: 2013-06-23 16:45
-Latex:
-Category: Tutorials
-Tags: ldc-kiy, fieldwork
-Slug: organizing-elicitation-items
 Author: Kristine Yu
+Latex:
+Tags: ldc-kiy, fieldwork, tutorial
+Slug: organizing-elicitation-items
 
 In this tutorial, we cover strategies for organizing data within an
 elicitation session as well as across elicitation sessions, including:

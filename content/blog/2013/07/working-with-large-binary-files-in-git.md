@@ -1,9 +1,8 @@
 Title: Working with large binary files in git
 Date: 2013-07-02 11:33
-Category: Misc
+status: draft
 Tags: git, version-control 
 Slug: working-with-large-binary-files-in-git
-Author: Kristine Yu
 Summary: A note on how I'm managing large media files in public git respositories.
 
 ### Headlines and horizontal rules

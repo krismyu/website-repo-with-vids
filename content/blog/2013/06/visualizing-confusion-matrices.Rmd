@@ -1,0 +1,104 @@
+Title: Visualizing confusion matrices
+status: draft
+Latex:
+Date: 2013-07-01 12:00
+Tags: ldc-kiy, fieldwork, R, visualization, data-analysis
+Slug: visualizing-confusion-matrices
+Summary: Some R code for visualizing confusion matrices and generating
+LaTeX tables
+
+R code
+<script src="https://gist.github.com/krismyu/6145088.js"></script>
+
+Rnw
+<script src="https://gist.github.com/krismyu/6145054.js"></script>
+
+IMAGES
+![Confusion matrix](cantonese-confus-matrix-plot-se.pdf )
+
+
+## Dinoj Surendran's confusion matrices ##
+
+[Dinoj Surendran](http://research.microsoft.com/en-us/um/people/dinos/)
+has an excellent webpage on acoustic confusion matrices you can find
+at his old University of Chicago site
+[here](http://people.cs.uchicago.edu/~dinoj/confmat.html). The links
+to the confusion matrix data on that page are broken, but you can still find them
+at the links below:
+
++ [Miller and Nicely 1955](http://people.cs.uchicago.edu/~dinoj/research/nicely.html)
++ [Wang and Bilger 1973](http://people.cs.uchicago.edu/~dinoj/research/wangbilger.html)
+
+## R Code ##
+
+```{r setup}
+# set global chunk options: images will be 7x5 inches
+opts_chunk$set(fig.width=7, fig.height=5)
+```
+
+```{text}
+% Consonant Confusions in CV utterances, for V=/a/, for S/N = +12db and freq response of 200-2500 Hz (Miller Nicely Table XI)
+% ptkfTsSbdgvDzZmn
+% T th S sh D dh Z zh 
+215	29	26	5	1	0	0	0	0	0	0	0	0	0	0	0
+74	91	47	0	0	0	0	0	0	0	0	0	0	0	0	0
+15	16	201	0	0	0	0	0	0	0	0	0	0	0	0	0
+```
+
+
+```{r read-data}
+
+dat <-
+ read.table(url("http://people.cs.uchicago.edu/~dinoj/research/nicely_plus12db_200to2500hz.dat"),
+ header = FALSE, skip = 3)
+
+header.info <- scan(file =
+url("http://people.cs.uchicago.edu/~dinoj/research/nicely_plus12db_200to2500hz.dat"),
+what = "raw", nlines = 3, sep = "\n")
+
+phones.str <- substr(header.info[2],3,nchar(header.info[2]))
+phones <- unlist(strsplit(phones.str, split=""))
+
+colnames(dat) <- phones; rownames(dat) <- phones
+
+```
+
+```{r}
+
+# Create a data frame with just the correct responses, to prepare to set different colors for correct and incorrect responses.
+
+ind.corr <- with(tones.confus.melt.se, which(tone == response))
+tones.confus.melt.se.corr <- tones.confus.melt.se[ind.corr, ]
+tones.confus.melt.se.uncorr <- tones.confus.melt.se[-ind.corr, ]                      
+
+```
+
+```{r }
+# Plot it
+tones.confus.plot.se <- ggplot(dat = tones.confus.melt.se.uncorr, aes(x = response, y = frequency)) + facet_wrap( ~ res * tone, ncol = 6, nrow = 5) + geom_histogram(stat = "identity", fill = "white", colour = "grey20") + geom_errorbar(aes(ymin = ymin, ymax = ymax, width=0.4), colour="black") + geom_histogram(dat = tones.confus.melt.se.corr, stat = "identity", fill = "grey30", colour = "grey20") + geom_errorbar(dat = tones.confus.melt.se.corr, aes(ymin = ymin, ymax = ymax, width=0.4), colour="black") + coord_flip()
+
+# Annotations, etc.
+tones.confus.plot.se.annot <- tones.confus.plot.se + scale_x_discrete(name = "Response")+ scale_y_continuous(name = "Response frequency percentage", limits = c(0, 100), breaks = c(0, 20, 40, 60, 80, 100), labels = c("", "20", "", "60", "", "100")) + theme(axis.text.x = element_text(size=10,vjust=1), axis.text.y = element_text(size=10,hjust=1), axis.title.x = element_text(size = 14, vjust=0.5,), axis.title.y = element_text(size = 14, angle=90, vjust=0.4, hjust=0.5), legend.position = "right", legend.title = element_text(size = 12, hjust = 0, face = "bold"), legend.text = element_text(size = 11, vjust = 0.5))
+
+#Print it
+print(tones.confus.plot.se.annot)
+
+```
+
+```{r}
+sessionInfo()
+```
+
+    1. [200-2500 Hz, S/N = 12dB](http://people.cs.uchicago.edu/~dinoj/research/nicely_plus12db_200to2500hz.dat)
+	2. [200-5000 Hz, S/N = 12dB](http://people.cs.uchicago.edu/~dinoj/research/nicely_plus12db_200to5000hz.dat)
+    3. [2500-5000 Hz, S/N = 12dB](http://people.cs.uchicago.edu/~dinoj/research/nicely_plus12db_2500to5000hz.dat)
+
+
+
+<div align = "center">
+<figure>
+<img src="/static/blog/img/2013/06/praat-finish.jpg"
+alt = "Annotating sound files in Praat" width = "700">
+<figcaption> Annotating sound files in Praat.</figcaption>
+</figure>
+</div><p></p>

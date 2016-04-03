@@ -1,9 +1,8 @@
 Title: Preparing elicitation items for presentation
 Date: 2013-06-23 9:33
-Category: Tutorials
-Tags: ldc-kiy, fieldwork
-Slug: preparing-elicitation-items-for-presentation
 Author: Kristine Yu
+Tags: ldc-kiy, fieldwork, tutorial
+Slug: preparing-elicitation-items-for-presentation
 Summary: Tutorial for LDC paper: preparing elicitation items for presentation.
 
 For elicitation sessions designed to confirm hypotheses, the

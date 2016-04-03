@@ -1,9 +1,8 @@
 Title: Processing audio files (with SoX)
 Date: 2013-06-23 16:45
-Category: Tutorials
+Author: Kristine Yu
 Tags: ldc-kiy, fieldwork, coding, shell, sox, audio
 Slug: processing-audio-files-sox
-Author: Kristine Yu
 
 This tutorial introduces how to process audio files from fieldwork
 recordings with [SoX](http://sox.sourceforge.net/), a command-line

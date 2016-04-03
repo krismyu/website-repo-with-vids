@@ -1,10 +1,9 @@
 Title: Visualizing confusion matrices
+status: draft
 Latex:
 Date: 2013-07-01 12:00
-Category: Tutorials
-Tags: ldc-kiy, fieldwork, praat
+Tags: ldc-kiy, fieldwork, R, visualization, data-analysis
 Slug: visualizing-confusion-matrices
-Author: Kristine Yu
 Summary: Some R code for visualizing confusion matrices and generating
 LaTeX tables
 
@@ -20,8 +19,11 @@ at the links below:
 + [Miller and Nicely 1955](http://people.cs.uchicago.edu/~dinoj/research/nicely.html)
 + [Wang and Bilger 1973](http://people.cs.uchicago.edu/~dinoj/research/wangbilger.html)
 
+## R Code ##
 
-
+http://cran.r-project.org/web/packages/reshape2/index.html
+amoebe@moebius :: which xquartz
+/opt/X11/bin/xquartz
 
 
     1. [200-2500 Hz, S/N = 12dB](http://people.cs.uchicago.edu/~dinoj/research/nicely_plus12db_200to2500hz.dat)

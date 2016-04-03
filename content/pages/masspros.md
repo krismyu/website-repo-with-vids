@@ -7,7 +7,8 @@ Summary:
 ## Overview ##
 
 1. [Personnel](#personnel)
-2. [Mentoring lunches](#lunches)
+2. [Mentoring networks and lunches](#lunches)
+   ([notes from lunch](#lunch-notes))
    ([procedure for reserving lunch](#lunch-procedure))
 3. [Fall orientation](#orientation)
 4. [Winter bootcamp](#bootcamp)
@@ -35,15 +36,16 @@ Prosody enthusiasts  |  Affiliation |
 [Lisa Green](http://people.umass.edu/lisag) | UMass Linguistics
 [Jeremy Hartman](http://www.umass.edu/linguist/people/faculty.php) | UMass Linguistics
 [Vincent Homer](https://sites.google.com/site/vincenthomer/home) | UMass Linguistics
-<!-- [Jill Hoover](http://www.umass.edu/sphhs/person/faculty/jill-hoover) | UMass Communication Disorders -->
 [John Kingston](http://people.umass.edu/jkingstn) | UMass Linguistics
 [Angelika Kratzer](http://people.umass.edu/kratzer) | UMass Linguistics
 [John McCarthy](http://people.umass.edu/jjmccart) | UMass Linguistics
 [Magda Oiry](http://blogs.umass.edu/moiry) | UMass Linguistics
-<!-- [Gwyneth Rost](http://www.umass.edu/sphhs/person/faculty/gwyneth-c-rost)| UMass Communication Disorders -->
 [Lisa Selkirk](http://people.umass.edu/selkirk) | UMass Linguistics
 [Adrian Staub](http://people.umass.edu/astaub) | UMass Psychology
 [Kristine Yu](http://people.umass.edu/kmyu) | UMass Linguistics
+
+<!-- [Jill Hoover](http://www.umass.edu/sphhs/person/faculty/jill-hoover) | UMass Communication Disorders -->
+<!-- [Gwyneth Rost](http://www.umass.edu/sphhs/person/faculty/gwyneth-c-rost)| UMass Communication Disorders -->
 
 -----------------------------------------
 
@@ -56,8 +58,7 @@ mentors, according to the following guidelines:
 2. At least one mentor should be outside your home department
 3. At least one mentor should be senior faculty
 4. At least one mentor should be junior (or recently tenured) faculty
-5. Mentors need not be currently listed as [personnel](#personnel) on
-   the grant (we can add them later)
+5. Mentors need not be listed as [personnel](#personnel) on the grant 
 
 The point of the mentoring network is to be a resource for the initiating
 junior faculty member regarding career issues like getting tenure and
@@ -70,6 +71,29 @@ mentoring for. There will be roughly $100 in funds for each junior
 faculty member for these small group mentoring lunches at the
 [UMass Faculty Club](http://www.umassuclub.com/). Your mentors will
 receive a small research stipend as a token of appreciation. 
+
+At the fall orientation, we decided that the mentoring lunches should
+be used for developing research interest/questions for organization of
+both the working groups in the bootcamp and the theme for the Spring
+workshop, in addition to being used for discussion of other mentoring
+issues. For developing these ideas, we proposed two phases for the
+lunches, the first for initial generation/discussion of ideas within
+already proposed mentoring networks, and the second for further
+discussion by groups organized around the ideas:
+
+1. Lunches within mentoring networks ** by October 31, 2013 **
+
+*Goals: work out research ideas of interest for working group,
+  brainstorm questions for workshop theme, discuss mentoring issues about tenure, grants, etc.*
+
+2. Lunches with brainstorming groups ** by November 27, 2013 **
+
+*Goals: develop plans for working group for bootcamp, further brainstorming*
+
+We also decided to share notes from these lunches, which I'll post in
+the section below.
+
+#### <a id="lunch-notes"></a> Notes from lunches ####
 
 #### <a id="lunch-procedure"></a> Arranging mentoring lunches through grant funds ####
 
@@ -88,21 +112,41 @@ follows:
    them know what account to charge the lunch to. You will need
    to sign off on the bill, but you won't need to pay anything. Don't
    forget to write in a tip on the bill!
+   
+4. After the lunch, send me an e-mail with your notes from the lunch
+   on ideas for working groups, the theme for the workshop, and anything you want to
+   share you learned about tenure, funding, etc. *Include the date of the
+   lunch and people involved* because I need to report it to our funders.
+
+Here's the current list of mentoring networks:
+
+Prosody enthusiasts  |  Mentoring network | 
+-------------------- |:-------------:  
+[Luiz Amaral](http://people.umass.edu/amaral) | Meghan Armstrong, Angelika Kratzer, Tom Roeper
+[Meghan Armstrong](meghanarmstrong.weebly.com‎) | Luiz Amaral, Lisa Green, Kristine Yu
+[Mara Breen](http://www.mtholyoke.edu/~mbreen) | Meghan Armstrong, Lisa Green, Lisa Selkirk
+[Emiliana Cruz](http://www.umass.edu/anthro/faculty/permanent.html) | Joe Pater, John Kingston
+[Brian Dillon](http://blogs.umass.edu/bwdillon‎) | Lyn Frazier, Caren Rotello, Kristine Yu
+[Jeremy Hartman](http://www.umass.edu/linguist/people/faculty.php) | ?
+[Vincent Homer](https://sites.google.com/site/vincenthomer/home) | Rajesh Bhatt, ?
+[Magda Oiry](http://blogs.umass.edu/moiry) | ?
+[Kristine Yu](http://people.umass.edu/kmyu) | Chuck Clifton, Brian Dillon, Lisa Selkirk
 
 -----------------------------------------
 
 ##<a id="orientation"></a> Fall orientation ##
 
-We'll launch the prosody group with an informal get-together when
+We launched the prosody group with an informal get-together when
 school starts, on *Wednesday, September 4, 5:30pm - 6:30pm*, in South
-College 301 (Partee Seminar Room), UMass.  
+College 301 (Partee Seminar Room), UMass. We had introductions, discussed the
+organization of the mentoring lunches, winter bootcamp, and spring
+workshop, and firmed up dates for the bootcamp and workshop.  
 
 -----------------------------------------
 
 ##<a id="bootcamp"></a> Winter bootcamp ##
 
-A 3-day prosody bootcamp will be held at UMass in January 2014, *tentatively
-Wednesday to Friday, January 15-17 OR Thursday to Saturday, January 16-18*, open to
+A 3-day prosody bootcamp will be held at UMass in January 2014, *Wednesday to Friday, January 15-17*, open to
 whoever's interested from the Five Colleges community, including
 students. The purpose of the bootcamp is to:
 
@@ -115,23 +159,39 @@ students. The purpose of the bootcamp is to:
 4. Discover juicy research questions and get inspired to grapple with
    them  (plenary lectures, and well, everything really)
 
-#### Tentative working groups ####
+#### Location and schedule ####
 
-Here are some tentative working groups, with potential organizers
-listed. The job of the organizers for a working group is to plan and
-direct the working group's activities during breakout sessions at the
-bootcamp. Activities may include tutorials, brainstorming, etc. We'll
-try to arrange the schedule so that people with multiple areas of interest can
-attend multiple working groups.
+We discussed three possible locations at the fall orientation, which
+we are scouting. Stay tuned for final location details.
 
-Area of interest  | Organizers
------------------ | -------------
-Acquisition | Luiz Amaral, Meghan Armstrong, Jeremy Hartman, Magda Oiry
-Clinical applications | ?, Meghan Armstrong, (Kristine Yu)
-Fieldwork | Seth Cable, Emiliana Cruz, Kristine Yu
-On-line processing | Mara Breen, Brian Dillon, Adrian Staub
-Phonetics/phonology | Meghan Armstrong, Mara Breen, Kristine Yu
-Syntax/semantics/pragmatics | Seth Cable, Brian Dillon, Jeremy Hartman, (Vincent Homer), Adrian Staub
+1. Integrated Sciences Building (KY, CEC)
+2. Du Bois Library Learning Commons (different place for plenaries?) (JK)
+3. Commonwealth College (JH)
+
+Here is a rough idea of the schedule for each day:
+
+Time  |  Activity 
+-------------------- |:-------------:  
+9:00-9:30 | Breakfast
+9:30-11:00 | Working groups breakout
+11:00-12:00 | Plenary lecture, Part I
+12:00-13:00 | Lunch break
+13:00-14:00 | Plenary lecture, Part II 
+14:00-14:15 | Short break
+14:15-15:15 | Plenary tutorial, Part I
+15:15-15:30 | Short break
+15:30-16:30 | Plenary tutorial, Part II
+16:30-17:30 | Working groups breakout
+
+<p></p>
+
+#### Working groups ####
+
+At the fall orientation, we decided to institute a fairly organic
+process for divying ourselves up into working groups, based on shared
+research interests which will be identified and developed during the
+mentoring small group lunches. Stay tuned here for more on ideas that
+come out of those lunches.
 
 <p></p>
 
@@ -140,42 +200,43 @@ Syntax/semantics/pragmatics | Seth Cable, Brian Dillon, Jeremy Hartman, (Vincent
 1. Interpreting the speech signal in prosodic research (Meghan Armstrong, Mara Breen, Kristine Yu)
 2. Prosodic transcription (Meghan Armstrong, Mara Breen, Kristine Yu)
 
+At the fall orientation, we discussed including aspects connected with
+prosody such as information structure as part of the tutorial.
+
 #### Tentative lunchtime plenary lectures ####
 
-1. Prosodic interfaces: Angelika Kratzer and Lisa Selkirk
+The lineup of lectures is the following:
+
+1. Prosodic interfaces: Angelika Kratzer and Lisa Selkirk (Friday, Jan. 17)
 2. Prosody and sentence processing: Chuck Clifton and Lyn Frazier
-3. Advising, teaching, research (and some tone?): John Kingston and John McCarthy
+3. Tone: John Kingston
+4. Advising, teaching, research: John McCarthy
+
+The goal of the plenary lectures is to help illuminate big picture
+issues for each of the topics like:
+
+1. What are the fundamental questions?
+2. What are the fundamental results?
+3. Where is the subfield going?
+4. What do you think are the exciting research questions?
 
 -----------------------------------------
 
 ##<a id="workshop"></a> Spring workshop ##
 
 A 2-day prosody workshop at UMass open to the public will be held in
-May 2014, *tentatively Thursday and Friday, May 29-30 or Friday and Saturday, May 30-31*, and will
+May 2014, *Friday and Saturday, May 30-31*, and will
 (tentatively) consist of:
 
-1. Invited talks (~30 min each)
-2. Poster session? 
+1. Long invited talks and (planned?) response/discussion for each talk
+2. Refereed poster session on the theme
 3. Panel discussion on building an integrative prosody community
 4. A synthesizing panel discussion at the end of the workshop
 5. Lots of time for informal discussion
 
-The theme of the workshop is: **the definition of tonal concepts: from
-the speech signal to grammar**.
-
-Tentative issues to be addressed (feel free to contact me with more
-suggestions of topics and potential speakers to invite!) include:
-
-* What are phonetic and phonological spaces for defining tonal concepts?
-* What is the locus of contrast for tonal concepts? Morphology?
-  Phonology? Pragmatic meaning? Is this different from word-level, to
-  sentence-level, to discourse-level prosody?
-* How are tonal concepts represented in the grammar and what empirical
-  evidence do we have that bears on this?
-* Are there differences in the succinctness of grammatical tonal
-  representations under consideration by linguists?
-* What role do memory and frequency effects play in recognizing tonal concepts?
-
+The theme of the workshop will be decided by the grant group
+participants in early November. Tentatively, we brought up the idea of
+having a second meeting to discuss the workshop theme then.
 
 -----------------------------------------
 
@@ -186,5 +247,5 @@ suggestions of topics and potential speakers to invite!) include:
 Conference  |  Event coordinates | Submission deadline 
 -------------------- |------------- | ------------------  
 [TAL 2014](http://tal2014.org/) | 13-16 May 2014, Nijmegen, the Netherlands | [15 Feb 2014](http://tal2014.org/call-for-papers/)
-[Speech Prosody 2014] (http://sprosig.isle.illinois.edu/) | 21-24 May 2014, Dublin, Ireland | Late Nov, early December??
+[Speech Prosody 2014](http://fastnet.netsoc.ie/sp7/) | 21-24 May 2014, Dublin, Ireland | [15 Dec 2013](http://fastnet.netsoc.ie/sp7/cfp.html)
 

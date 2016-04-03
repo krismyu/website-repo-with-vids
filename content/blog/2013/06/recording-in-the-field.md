@@ -1,9 +1,8 @@
 Title: Recording in the field
 Date: 2013-06-23 16:45
-Category: Tutorials
-Tags: ldc-kiy, fieldwork
-Slug: recording-in-the-field
 Author: Kristine Yu
+Tags: ldc-kiy, fieldwork, tutorial
+Slug: recording-in-the-field
 Summary: Tutorial for LDC paper: notes on recording in the field
 
 This tutorial sketches some suggestions for recording equipment, for

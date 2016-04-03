@@ -1,9 +1,8 @@
 Title: Processing audio files (with Praat)
 Date: 2013-06-24 17:10
-Category: Tutorials
-Tags: ldc-kiy, fieldwork, coding, shell, praat, audio
-Slug: processing-audio-files-praat
 Author: Kristine Yu
+Tags: ldc-kiy, fieldwork, coding, shell, praat, audio, tutorial
+Slug: processing-audio-files-praat
 
 This tutorial introduces how to process audio files from fieldwork
 recordings with [Praat](http://www.praat.org). See the tutorial

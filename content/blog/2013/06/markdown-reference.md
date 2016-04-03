@@ -1,10 +1,9 @@
 Title: Markdown and LaTeX reference
 Latex:
 Date: 2013-06-21 9:33
-Category: Tutorials
-Tags: coding, markdown 
-Slug: markdown-reference
 Author: Kristine Yu
+Tags: coding, markdown, tutorial
+Slug: markdown-and-latex-reference
 
 
 Practice with markdown based on

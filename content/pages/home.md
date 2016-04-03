@@ -1,33 +1,32 @@
-Title: about
-Date: 2013-06-26 15:02
-Slug: home
-Author: Kristine M. Yu
-Summary: 
+title: Kristine M. Yu Home
+save_as: index.html
+URL:
 
-![Kristine M. Yu](../static/pages/home/kmyu-headshot-2012-65width.jpg "Kristine M. Yu")
+<!-- Time-stamp: <2014-11-06 10:55:35 amoebe>  -->
 
-+ ## interests ##
+<div class="container">
 
-    + Tone and intonation
-    + Prosodic interfaces
-	+ Phonetics and phonology
-	+ Language learning and variation
-	+ Human language processing
+<div class="left">
+
+<h3>Coordinates</h3>
+<a href = "http://www.umass.edu">UMass Amherst</a> <a href = "http://www.umass.edu/linguist">Linguistics</a>
+Assistant Professor<br>
+krisyu@linguist.umass.edu
+<p></p>
+Integrative Learning Center<br>
+650 North Pleasant Street<br>
+Amherst, MA 01003-1100, USA<br>
+ILC N422<br>
+(413) 545-6830
 
 <p></p>
 
-+ ## coordinates ##
+<h3><a href = "https://rawgithub.com/krismyu/kmyu-cv/master/kmyu-cv.pdf">Vita [pdf]</a></h3>
+My research focuses on tone and intonation, from the speech signal on
+up to grammar and human language processing.
 
-Assistant Professor<br>
-[University of Massachusetts Amherst](http://www.umass.edu)	 
-[Department of Linguistics](http://www.umass.edu/linguist)  
-150 Hicks Way<br>
-Amherst, MA 01003<br>
-South College 231<br>
-(413) 545-6830
+</div>
 
-+ ## e-mail ##
-![email](../static/pages/home/email.gif "email")
-
-
-
+<div class="right">
+<img src="../static/pages/home/kmyu-headshot-2012-65width.jpg" alt = "Kristine M. Yu">
+</div>
