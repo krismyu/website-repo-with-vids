@@ -8,6 +8,7 @@ SITESUBTITLE = u'Linguist at UMass Amherst'
 SITEURL = ''
 
 PATH = 'content'
+DELETE_OUTPUT_DIRECTORY = True
 
 DEFAULT_DATE_FORMAT = '%Y %B %d'
 TIMEZONE = 'America/New_York'
@@ -18,8 +19,8 @@ DEFAULT_LANG = u'en'
 THEME = '../themes/pelican-bootstrap3'
 
 # Set bootstrap theme
-BOOTSTRAP_THEME = 'simplex'
-BOOTSTRAP_NAVBAR_INVERSE = 'TRUE'
+BOOTSTRAP_THEME = 'cosmo'
+#BOOTSTRAP_NAVBAR_INVERSE = 'TRUE'
 
 #ABOUT_ME = 'Hi there.'
 #AVATAR = './content/img/emmy-sophie-sideways.jpg'
@@ -50,9 +51,10 @@ IGNORE_FILES =  (['.#*'])
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
+
 # Plugins
 
-PLUGIN_PATHS=['../plugins',]
+#PLUGIN_PATHS=['../plugins',]
 #PLUGINS = [
 #    'neighbors',
 #    'latex']
@@ -70,7 +72,13 @@ PLUGIN_PATHS=['../plugins',]
 # STATIC_PATHS = ["blog/img", "blog/data", "blog/videos", "pages/home", "pages/output", "pages/resources", "pages/teaching", "pages/masspros"]
 
 
+# Adapted from https://github.com/tylerhartley/beneathdata/blob/master/pelicanconf.py
+################## Add custom css #########################
+CUSTOM_CSS = 'static/custom.css'
+# Set static paths
+STATIC_PATHS = ["img", "blog/data", "blog/videos", "pages/home", "pages/research", "pages/teaching", "pages/code", "extra"]
 
+EXTRA_PATH_METADATA = {'extra/custom.css':{'path':'static/custom.css'}}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
