@@ -1,8 +1,9 @@
 title: 
+slug: home
 save_as: index.html
 URL:
 
-<!-- Time-stamp: <2016-04-03 16:05:11 amoebe>  -->
+<!-- Time-stamp: <2016-04-03 17:49:11 amoebe>  -->
 
 <div class="banner">
 	<div class="container">
@@ -45,9 +46,9 @@ ILC N422<br>
 	<h3><strong>Recent work:</strong></h3>
 		<h5>
 		<ul>
-			<li>Manuscript: <a href = "">Advantages of constituency:
+			<li>Manuscript: <a href = "/research/index.html#research-phon-constituency">Advantages of constituency:
 	computational perspectives on Samoan word prosody</a></li>
-			<li>Manuscript: <a href = "">Tonal case marking in Samoan</a></li>
+			<li>Manuscript: <a href = "/research/index.html#research-interfaces">Tonal case marking in Samoan</a></li>
 		</ul>
 	</h5>
 	</div>
