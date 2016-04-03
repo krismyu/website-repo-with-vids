@@ -10,16 +10,15 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://www.krisyu.org'
+SITEURL = 'http://kmyu.github.io'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/category/%s.atom.xml'
-TAG_FEED_ATOM = 'feeds/tag/%s.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-DISQUS_SITENAME = 'disqus-sitename'
-#GOOGLE_ANALYTICS = 'google-analytics-id'
+#DISQUS_SITENAME = ""
+#GOOGLE_ANALYTICS = ""
