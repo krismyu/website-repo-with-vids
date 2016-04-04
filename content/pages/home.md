@@ -3,7 +3,7 @@ slug: home
 save_as: index.html
 URL:
 
-<!-- Time-stamp: <2016-04-03 17:49:11 amoebe>  -->
+<!-- Time-stamp: <2016-04-03 19:27:49 amoebe>  -->
 
 <div class="banner">
 	<div class="container">
