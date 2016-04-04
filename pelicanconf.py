@@ -158,9 +158,11 @@ CUSTOM_CSS = 'static/custom.css'
 STATIC_PATHS = ["img", "videos", "pages/home", "pages/pdfs", "extra",]
 
 EXTRA_PATH_METADATA = {'extra/custom.css':{'path':'static/custom.css'},
-                    'extra/href_scroll.js':{'path':'theme/js/href_scroll.js'},
-                    'extra/jquery.zoom.js':{'path':'theme/js/jquery.zoom.js'},
-                       }
+                       'extra/href_scroll.js':{'path':'theme/js/href_scroll.js'},
+                       'extra/CNAME': {'path': 'CNAME'},
+                       'extra/jquery.zoom.js':{'path':'theme/js/jquery.zoom.js'},
+}
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
