@@ -155,7 +155,7 @@ PLUGINS = [
 ################## Add custom css #########################
 CUSTOM_CSS = 'static/custom.css'
 # Set static paths
-STATIC_PATHS = ["img", "videos", "pages/home", "pages/pdfs", "extra",]
+STATIC_PATHS = ["img", "pages/home", "pages/pdfs", "extra",]
 
 EXTRA_PATH_METADATA = {'extra/custom.css':{'path':'static/custom.css'},
                        'extra/href_scroll.js':{'path':'theme/js/href_scroll.js'},
