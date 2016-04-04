@@ -298,8 +298,8 @@ alt = "The LongSound: To Text Grid...dialog box" width = "450"><br>
 	   
 <p align = "center">
 <video controls>
-  <source src="/videos/2013/06/marking-timepoints.mp4" type="video/mp4">
-  <source src="/videos/2013/06/marking-timepoints.ogv" type="video/ogg">
+  <source src="http://media.krisyu.org/ldc-kiy/videos/marking-timepoints.mp4" type="video/mp4">
+  <source src="http://media.krisyu.org/ldc-kiy/videos/marking-timepoints.ogv" type="video/ogg">
   Your browser does not support the video tag.
 </video>
 Screencast: Marking interval boundary timepoints in the TextGrid.
@@ -330,8 +330,8 @@ The screencast includes:
 
 <p align = "center">
 <video controls>
-  <source src="/videos/2013/06/annotating-timepoints.mp4" type="video/mp4">
-  <source src="/videos/2013/06/annotating-timepoints.ogv" type="video/ogg">
+  <source src="http://media.krisyu.org/ldc-kiy/videos/annotating-timepoints.mp4" type="video/mp4">
+  <source src="http://media.krisyu.org/ldc-kiy/videos/annotating-timepoints.ogv" type="video/ogg">
   Your browser does not support the video tag.
 </video>
 Screencast: Annotating interval boundary timepoints in the TextGrid.
@@ -511,8 +511,8 @@ with the `numeric-labels.txt` file. The files used are in `tutorials/annotating-
 
 <p align = "center">
 <video controls>
-  <source src="/videos/2013/06/praat-scripting.mp4" type="video/mp4">
-  <source src="/videos/2013/06/praat-scripting.ogv" type="video/ogg">
+  <source src="http://media.krisyu.org/ldc-kiy/videos/praat-scripting.mp4" type="video/mp4">
+  <source src="http://media.krisyu.org/ldc-kiy/videos/praat-scripting.ogv" type="video/ogg">
   Your browser does not support the video tag.
 </video>
 Screencast: Semi-automatic annotation of interval labels in the

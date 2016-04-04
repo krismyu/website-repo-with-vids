@@ -71,3 +71,9 @@
 p {
   margin: 15px 0;
 }
+
+/* https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php */
+video {
+  width: 100%    !important;
+  height: auto   !important;
+}
